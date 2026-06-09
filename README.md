@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponible-E8813E?style=for-the-badge&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Full_Stack-A81D33?style=for-the-badge&logo=codeforces&logoColor=D4AF37" alt="Focus">
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/CORE-SOFTWARE__ENGINEER-8A2BE2?style=flat-square" alt="Core">
+  <img src="https://img.shields.io/badge/ASTRO-DEEP__SPACE__LOGIC-FF00FF?style=flat-square" alt="Logic">
+  <img src="https://img.shields.io/badge/STATUS-NAVIGATING__THE__VOID-120A2A?style=flat-square" alt="Status">
+</div>
 
 ---
 
