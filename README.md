@@ -13,51 +13,51 @@
 ---
 
 <h1 align="center">
-👾 ABOUT ME
+ 👾 SOBRE MÍ
 </h1>
 
 ```javascript
 const javier = {
-    role: "Full Stack Developer",
+    cargo: "Desarrollador Full Stack",
 
-    code: [
+    lenguajes: [
         "Java",
         "JavaScript",
-        "Node.js",
-        "Express"
+        "Node.js"
     ],
 
-    technologies: {
-        frontEnd: [
+    tecnologias: {
+        frontend: [
             "HTML",
             "CSS",
             "JavaScript"
         ],
 
-        backEnd: [
+        backend: [
             "Node.js",
             "Express"
         ],
 
-        database: [
+        baseDeDatos: [
             "MySQL",
             "MongoDB",
             "PostgreSQL"
         ]
     },
 
-    interests: [
-        "Gaming 🎮",
-        "Backend Development ⚙️",
+    intereses: [
+        "Videojuegos 🎮",
+        "Desarrollo Backend ⚙️",
         "APIs 🚀",
-        "Databases 🧠",
-        "Innovation 🔥"
+        "Bases de Datos 🧠",
+        "Innovación 🔥"
     ],
 
-    currentlyLearning: "Advanced Full Stack",
+    aprendiendoActualmente:
+        "Desarrollo Full Stack Avanzado",
 
-    lifePhilosophy:
-        "Code. Learn. Improve. Repeat."
+    filosofia:
+        "Programar, aprender y mejorar cada día."
 };
 ```
 
