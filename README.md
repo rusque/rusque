@@ -1,81 +1,82 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=🎮%20Javier%20Rusque%20💻&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20⚡%20Gaming%20Tech%20⚡%20Innovation&descAlignY=58"/>
-
-</div>
+<h1 align="center">👾 SOBRE MÍ</h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🎮+WELCOME+TO+MY+DIGITAL+WORLD;💻+FULL+STACK+DEVELOPER;⚡+BACKEND+DEVELOPMENT;🚀+BUILDING+THE+FUTURE+WITH+CODE"/>
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Perfil
+
+🎓 **Desarrollador Full Stack**  
+🚀 Enfocado en **Backend y APIs**  
+🔥 Apasionado por la **tecnología**  
+🎮 Fan de los **videojuegos y la innovación**
+
+</td>
+
+<td width="50%">
+
+### ⚡ Actualmente
+
+🧠 Aprendiendo **Full Stack Avanzado**  
+⚙️ Mejorando habilidades en **Backend**  
+📦 Construyendo proyectos reales  
+📚 Aprendiendo nuevas tecnologías
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<h1 align="center">
- 👾 SOBRE MÍ
-</h1>
+## ⚔️ TECNOLOGÍAS
 
-```javascript
-const javier = {
-    cargo: "Desarrollador Full Stack",
+<div align="center">
 
-    lenguajes: [
-        "Java",
-        "JavaScript",
-        "Node.js"
-    ],
+### 💻 Lenguajes
 
-    tecnologias: {
-        frontend: [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-        backend: [
-            "Node.js",
-            "Express"
-        ],
+### 🎨 Frontend
 
-        baseDeDatos: [
-            "MySQL",
-            "MongoDB",
-            "PostgreSQL"
-        ]
-    },
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-    intereses: [
-        "Videojuegos 🎮",
-        "Desarrollo Backend ⚙️",
-        "APIs 🚀",
-        "Bases de Datos 🧠",
-        "Innovación 🔥"
-    ],
+### ⚙️ Backend
 
-    aprendiendoActualmente:
-        "Desarrollo Full Stack Avanzado",
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-    filosofia:
-        "Programar, aprender y mejorar cada día."
-};
-```
+### 🗄️ Base de Datos
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🎯 PLAYER STATUS
+<div align="center">
 
-```txt
-██████████████████████░░ 90%
+### 🎮 INTERESES
 
-🧠 Backend Skills       ██████████████
-⚡ Problem Solving      ████████████
-🎮 Creativity           █████████████
-🚀 Full Stack Journey   ███████████
-🔥 Innovation           ████████████
-```
+🎮 **Videojuegos** • ⚙️ **Backend** • 🚀 **APIs** • 🧠 **Bases de Datos** • 🔥 **Innovación**
+
+</div>
 
 ---
+
+<div align="center">
+
+> ⚡ **Filosofía**  
+> *"Programar, aprender y mejorar cada día."*
+
+</div>
 
 # ⚔️ TECH STACK
 
