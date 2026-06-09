@@ -1,13 +1,21 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E8813E&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+rusque!+👋;Desarrollador+Software;Inspirado+por+el+diseño;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+# ───  ¡HOLA! SOY RUSQUE  ───
+
+<div align="left">
+  <img src="https://img.shields.io/badge/STATUS-DISPONIBLE-E8813E?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/FOCUS-FULL__STACK-A81D33?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/DESIGN-ABSTRACT__PALETTE-D4AF37?style=flat-square" alt="Design">
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponible-E8813E?style=for-the-badge&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Full_Stack-A81D33?style=for-the-badge&logo=codeforces&logoColor=D4AF37" alt="Focus">
-</p>
+<br>
 
----
+Soy un desarrollador enfocado en la intersección de la tecnología y la estética visual. Me apasiona construir soluciones eficientes utilizando código limpio, estructuras sólidas y una paleta de diseño inspirada en contrastes geométricos.
+
+```javascript
+const dev = {
+  profile: "Full Stack Engineer",
+  palette: ["Orange", "Burgundy", "Gold"],
+  philosophy: "Clean code, abstract logic, efficient systems"
+};
 
 ## ⚡ Sobre Mí
 
