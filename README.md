@@ -1,3 +1,23 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=🎮%20Javier%20Rusque%20💻&fontSize=58&fontAlignY=40&animation=twinkling&fontColor=00F7FF&color=0:000000,30:0D1117,60:1A1A2E,100:000000&desc=Full%20Stack%20Developer%20⚡%20Gaming%20Tech&descAlignY=58&descColor=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-1dc03683-ba49-44a8-a6b2-0ac8782d9f55.gif"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🎮+BIENVENIDO+A+MI+PERFIL+DE+GITHUB;💻+DESARROLLADOR+FULL+STACK;⚡+BACKEND+%7C+APIs+%7C+BASES+DE+DATOS;🚀+CONSTRUYENDO+PROYECTOS+INNOVADORES"/>
+
+</div>
+
+---
+
 <h1 align="center">👾 SOBRE MÍ</h1>
 
 <div align="center">
@@ -63,7 +83,7 @@
 
 <div align="center">
 
-### 🎮 INTERESES
+## 🎮 INTERESES
 
 🎮 **Videojuegos** • ⚙️ **Backend** • 🚀 **APIs** • 🧠 **Bases de Datos** • 🔥 **Innovación**
 
@@ -73,26 +93,9 @@
 
 <div align="center">
 
-> ⚡ **Filosofía**  
-> *"Programar, aprender y mejorar cada día."*
+## ⚡ FILOSOFÍA
 
-</div>
-
-# ⚔️ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,express,html,css,mysql,mongodb,postgres,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-# 🎮 GAMING DEV MODE
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500"/>
+*"Programar, aprender y mejorar cada día."*
 
 </div>
 
@@ -102,64 +105,58 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7FF&text_color=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 RACHA DE CONTRIBUCIONES
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&background=000000&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 LOGROS GITHUB
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=radical&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=onestar&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROYECTOS DESTACADOS
 
 ### 🛒 E-Commerce Platform
-```txt
-✔ JWT Authentication
-✔ Admin Dashboard
-✔ Product CRUD
-✔ Sequelize Database
-✔ Backend with Express
-```
 
-### 📦 Inventory Management System
-```txt
-✔ Stock Management
-✔ Reports
-✔ Logistics Tracking
-✔ Data Control
-```
+✔ Autenticación JWT  
+✔ Panel Administrador  
+✔ CRUD de Productos  
+✔ Base de Datos Sequelize  
 
-### 🌐 REST API Development
-```txt
-✔ Node.js
-✔ Express
-✔ Clean Architecture
-✔ Database Integration
-```
+### 📦 Sistema de Inventario
+
+✔ Gestión de Stock  
+✔ Reportes  
+✔ Control Logístico  
+
+### 🌐 API REST
+
+✔ Node.js + Express  
+✔ Arquitectura Limpia  
+✔ Integración Base de Datos  
 
 ---
 
-# 🌌 CONNECT WITH ME
+# 🌌 CONECTA CONMIGO
 
 <div align="center">
 
@@ -179,27 +176,9 @@
 
 ---
 
-# 🎵 NOW PLAYING
-
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31example&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUUSUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=VISITAS+AL+PERFIL&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -209,6 +188,6 @@
 
 ## ⚡ GAME OVER? NEVER. KEEP CODING.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,40:0D1117,70:8A2BE2,100:000000"/>
 
 </div>
