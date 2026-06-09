@@ -1,34 +1,28 @@
-<div align="left">
-  <img src="https://img.shields.io/badge/CORE-SOFTWARE__ENGINEER-8A2BE2?style=flat-square" alt="Core">
-  <img src="https://img.shields.io/badge/ASTRO-DEEP__SPACE__LOGIC-FF00FF?style=flat-square" alt="Logic">
-  <img src="https://img.shields.io/badge/STATUS-NAVIGATING__THE__VOID-120A2A?style=flat-square" alt="Status">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E8813E&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+rusque!+👋;Desarrollador+Software;Inspirado+by+el+diseño;Bienvenido+a+mi+perfil" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Disponible-000000?style=for-the-badge&logoColor=E8813E" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-000000?style=for-the-badge&logo=codeforces&logoColor=D4AF37" alt="Focus">
+</p>
 
 ---
 
 ## ⚡ Sobre Mí
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Soy un desarrollador apasionado por la fusión de tecnología y diseño estético, buscando siempre crear soluciones digitales eficientes y visualmente impactantes, inspiradas en la geometría y el contraste de colores.</p>
-      <ul>
-        <li>🚀 Actualmente explorando nuevas arquitecturas de software.</li>
-        <li>🛠️ Comprometido con las buenas prácticas y el rendimiento.</li>
-        <li>💬 Hablemos sobre desarrollo web, código abierto o tecnología.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <code><pre>
-<span style="color:#D4AF37">const</span> <span style="color:#E8813E">rusque</span> = {
-  <span style="color:#D4AF37">code</span>: [<span style="color:#E8813E">"JS"</span>, <span style="color:#E8813E">"TS"</span>, <span style="color:#E8813E">"Python"</span>],
-  <span style="color:#D4AF37">palette</span>: [<span style="color:#E8813E">"Orange"</span>, <span style="color:#E8813E">"Burgundy"</span>, <span style="color:#E8813E">"Gold"</span>],
-  <span style="color:#D4AF37">coffeeDependent</span>: <span style="color:#E8813E">true</span>
+Soy un desarrollador apasionado por la fusión de tecnología y diseño estético, buscando siempre crear soluciones digitales eficientes y visualmente impactantes, inspiradas en la geometría y el contraste de colores.
+
+* 🚀 Actualmente explorando nuevas arquitecturas de software.
+* 🛠️ Comprometido con las buenas prácticas y el rendimiento.
+* 💬 Hablemos sobre desarrollo web, código abierto o tecnología.
+
+```javascript
+const rusque = {
+  code: ["JS", "TS", "Python"],
+  palette: ["Orange", "Burgundy", "Gold"],
+  coffeeDependent: true
 };
-      </pre></code>
-    </td>
-  </tr>
-</table>
 
 ---
 
