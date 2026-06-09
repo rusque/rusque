@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E8813E&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+rusque!+👋;Desarrollador+Software;Inspirado+by+el+diseño;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E8813E&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+rusque!+👋;Desarrollador+Software;Inspirado+por+el+diseño;Bienvenido+a+mi+perfil" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,26 +23,6 @@ const rusque = {
   palette: ["Orange", "Burgundy", "Gold"],
   coffeeDependent: true
 };
-
----
-
-## 🛠️ Tecnologías & Herramientas (Estilo Badges Planas)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-E8813E?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/TypeScript-E8813E?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-A81D33?style=for-the-badge&logo=postgresql&logoColor=D4AF37" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Git-E8813E?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-A81D33?style=for-the-badge&logo=linux&logoColor=D4AF37" />
-</div>
-
----
 
 ## 📊 Actividad en GitHub
 
