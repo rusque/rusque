@@ -1,5 +1,11 @@
 # ─── 🌌 BIENVENIDO A MI PERFIL ───
 
+<div align="center">
+  <img src="https://komarev.com/ghvc/?username=rusque&label=VISITAS%20AL%20SISTEMA&color=D4AF37&style=flat-square" alt="Contador de Visitas" />
+</div>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-DISPONIBLE-000000?style=for-the-badge&logoColor=E8813E" alt="Status">
   <img src="https://img.shields.io/badge/FOCUS-FULL__STACK-000000?style=for-the-badge&logo=codeforces&logoColor=D4AF37" alt="Focus">
